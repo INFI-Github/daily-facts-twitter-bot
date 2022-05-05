@@ -1,0 +1,1 @@
+web : daily-facts.js
