@@ -1,1 +1,1 @@
-web : daily-facts.js
+worker: node daily-facts.js
